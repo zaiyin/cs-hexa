@@ -9,7 +9,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 
 class Animasu : MainAPI() {
-    override var mainUrl = "https://animasu.dev"
+    override var mainUrl = "https://v5.animasu.cc"
     override var name = "Animasu"
     override val hasMainPage = true
     override var lang = "id"
