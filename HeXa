@@ -1,0 +1,8 @@
+{
+    "name": "Hexated providers repository by Zaiyin",
+    "description": "Hexated Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/zaiyin/cs-hexa/builds/plugins.json"
+    ]
+  }
